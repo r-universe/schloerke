@@ -1,14 +1,14 @@
 [
   {
+    "package": "autocogs",
+    "oncran": true
+  },
+  {
     "package": "geozoo",
     "oncran": true
   },
   {
     "package": "gqlr",
-    "oncran": true
-  },
-  {
-    "package": "autocogs",
     "oncran": true
   }
 ]

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autocogs"]
+	path = autocogs
+	url = https://github.com/schloerke/autocogs
+	shallow = true
+	registered = true
 [submodule "geozoo"]
 	path = geozoo
 	url = https://github.com/schloerke/geozoo
@@ -11,10 +16,5 @@
 [submodule "gqlr"]
 	path = gqlr
 	url = https://github.com/schloerke/gqlr
-	shallow = true
-	registered = true
-[submodule "autocogs"]
-	path = autocogs
-	url = https://github.com/schloerke/autocogs
 	shallow = true
 	registered = true
